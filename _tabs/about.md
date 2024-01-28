@@ -4,5 +4,16 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 이승찬 (Seungchan Lee)
+
+컴퓨터와 알고리즘에 관심이 많은 학생입니다.
+
+## 수상
+  + 2023 KOI 중등부 은상 (20등)
+  + 2023 한국 코드페어 해커톤 은상 (4등)
+
+## SNS
+  + [백준](https://www.acmicpc.net/user/seungchan0325)
+  + [solved.ac](https://solved.ac/profile/seungchan0325)
+  + [인스타그램](https://www.instagram.com/imchan0325/)
+  + [깃허브](https://github.com/Seungchan0325)
