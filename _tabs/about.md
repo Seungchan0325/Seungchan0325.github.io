@@ -8,8 +8,8 @@ order: 4
 컴퓨터와 알고리즘에 관심이 많은 학생입니다.
 
 ## Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungchan0325)](https://solved.ac/seungchan0325/)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=seungchan0325&theme=warm)](https://solved.ac/seungchan0325)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=seungchan0325)](https://solved.ac/seungchan0325/)
+[![mazandi profile](https://mazandi.herokuapp.com/api?handle=seungchan0325&theme=warm)](https://solved.ac/seungchan0325)
 
 ## 학교
  + 수원다산중학교
